@@ -3,6 +3,10 @@ WSN(Wireless Sensor Network)
 Nearest neighbors within radius
 https://www.mathworks.com/help/matlab/ref/graph.nearest.html
 
+
+ Dijkstra algorithm based on the cost matrix, and shortest path can be found.
+ https://www.mathworks.com/matlabcentral/fileexchange/5550-dijkstra-shortest-path-routing
+
 Create a directed graph, and then plot the graph using the 'force' layout.
 https://www.mathworks.com/help/matlab/ref/graph.plot.html
 
